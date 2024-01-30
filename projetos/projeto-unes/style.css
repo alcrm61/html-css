@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 600;
+}
+
+nav {
+    text-align: right;
+}
+
+header{
+    border-image: auto;
+}
